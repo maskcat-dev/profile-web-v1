@@ -1,0 +1,27 @@
+@media (max-width: 800px) {
+    #social-container {
+        display: flex;
+        flex-direction: row;
+        padding: 13px;
+    }
+    #body {
+        display: flex;
+        flex-direction: column;
+    }
+    #tecrubeler-container {
+        display: flex;
+        flex-direction: column;
+    }
+    #tecrubeler {
+        padding: 5px;
+        width: 120%;
+    }
+
+    #container {
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        padding: 10px;
+        width: 70%;
+    }
+}
